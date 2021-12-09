@@ -6,8 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std:: cout << "Privet\n";
-    std::cout << "Privet\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
